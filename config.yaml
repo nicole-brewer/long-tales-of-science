@@ -1,6 +1,6 @@
-baseurl: https://example.com/
+baseurl: https://nicole-brewer.github.io/long-tales-of-science
 languageCode: en-us
-title: HugoCast
+title: Long Tales of Science
 theme: castanet
 googleAnalytics: ''
 paginate: '9'
@@ -17,90 +17,50 @@ Menu:
     - identifier: about
       name: About
       url: /about
-    - identifier: contact
-      name: Contact
-      url: /contact
-    - identifier: hosts
-      name: Hosts
-      url: /host
     - identifier: guests
       name: Guests
       url: /guest
     - identifier: upcoming
       name: Upcoming Episodes
       url: /upcoming
-    - identifier: blog
-      name: Blog
-      url: /blog
-    - identifier: resources
-      name: Resources
-      url: '#!'
-    - identifier: books
-      name: Books
-      parent: resources
-      url: /books
-    - identifier: podcasts
-      name: Podcasts
-      parent: resources
-      url: /books
-    - identifier: internet
-      name: Internet
-      url: https://www.google.com
+    - identifier: contact
+      name: Contact
+      url: /contact
+    #- identifier: blog
+    #  name: Blog
+    #  url: /blog
 params:
   android_subscribe: http://subscribeonandroid.com/feeds.podtrac.com/VGAulpN7MY1U
   authors:
-    Bridget:
-      bio: ''
-      name: Bridget Kromhout
+    Nicole:
+      bio: I am a software engineer in the Scientific Solutions Group within Research Computing at Purdue University. My primary contribution is to the NSF-funded science gateway, GeoEDF, for managing, sharing, analyzing, and visualizing geospacial data. I have also worked in a facilitation roll in a research lab where I implemented and recommended standard practices, training research scientists, wrote workflow-enabling tools, and deployed complex UIs in Jupyter. I'm passionate about improving the state of science through sustainable software practices, the treatment of software as first-class research objects, improved institutional support for research software engineers, and diversity and inclusion. Catch me conversing about these topics on the Long Tales of Science Podcast - a podcast about women in HPC!
+      name: Nicole Brewer
       social:
-        twitter: bridgetkromhout
-      thumbnail: img/host/bridget.jpg
-    Matt:
-      bio: Matt Stratton is a solutions architect at Chef, where he demonstrates how
-        Chef’s automation platform provides speed and flexibility to clients’ infrastructure.
-        He is devoted to concepts like Continuous Delivery and Infrastructure as Code,
-        and his license plate actually says “DevOps”. He lives in Chicago and has
-        an unhealthy obsession with Doctor Who, Firefly, and Game of Thrones. And
-        whiskey.
-      name: Matt Stratton
-      social:
-        facebook: matt.stratton
-        github: mattstratton
-        homepage: https://www.mattstratton.io
-        instagram: instagram
-        linkedin: mattstratton
-        pinterest: mattstratton
-        twitch: mattstratton
-        twitter: mattstratton
-        youtube: mattstratton
-      thumbnail: img/host/matt.png
-    Trevor:
-      bio: ''
-      name: Trevor Hess
-      social:
-        twitter: trevorghess
-      thumbnail: img/host/trevor.jpg
-  copyright_notice: Copyright 2016 [Matt Stratton](https://www.mattstrattion.io)
-  description: The HugoCast is the best podcast you've ever seen. You will learn everything
-    you ever needed to know about [podcasting](https://en.wikipedia.org/wiki/Podcast)
-    from the most inspiring experts to ever show up on the whole internet.
+        twitter: catch_me_coding
+        homepage: https://nicole-brewer.com
+        github: nicole-brewer
+        #instagram:
+        #pinterest
+        #youtube
+        
+      thumbnail: img/host/nbrewer.jpg
+  copyright_notice: Copyright 2022 [Nicole Brewer](https://nicole-brewer.com)
+  description: Our mission is to expose and encourage women to pursue research and careers in high performance computing and computing-envabled fields. In this podcast, we interview women in HPC about their research, career paths, and what it means to be a woman in technology. Interviewees come from industry, academia, government, science, engineering, social science, and the humanities.
   disable_title_caps: 'true'
   disqusShortname: ''
   enable_jumbo: 'true'
-  episode_number_prefix: CWC
-  episode_number_style: brackets
+  episode_number_prefix: 'Episode '
+  episode_number_style: dash
   feed:
-    copyright: Copyright 2020 Matt Stratton
-    itunes_author: Matt Stratton
+    copyright: Copyright 2020 Nicole Brewer
+    itunes_author: Nicole Brewer
     itunes_first_sub_category: Software How-To
-    itunes_image: https://www.arresteddevops.com/img/ado-podcast-logo.png
-    itunes_owner_email: matt.stratton@gmail.com
-    itunes_owner_name: Matt Stratton
+    itunes_image: https://github.com/nicole-brewer/long-tales-of-science/tree/main/static/img/my_logo.png
+    itunes_owner_email: brewer36@purdue.edu
+    itunes_owner_name: Nicole Brewer
     itunes_second_sub_category: Tech News
-    itunes_subtitle: The best podcast ever
-    itunes_summary: The HugoCast is the best podcast you've ever seen. You will learn
-      everything you ever needed to know about podcasting from the most inspiring
-      experts to ever show up on the whole internet.
+    itunes_subtitle: A podcast about women in high-performance computing
+    itunes_summary: Our mission is to expose and encourage women to pursue research and careers in high performance computing and computing-envabled fields. In this podcast, we interview women in HPC about their research, career paths, and what it means to be a woman in technology. Interviewees come from industry, academia, government, science, engineering, social science, and the humanities.
     itunes_top_category: Technology
     language: en-us
   google_play_subscribe: https://podcasts.google.com/feed/aHR0cHM6Ly93d3cuYXJyZXN0ZWRkZXZvcHMuY29tL2VwaXNvZGUvaW5kZXgueG1s
@@ -121,7 +81,7 @@ params:
   pocketcasts_subscribe: http://pcasts.in/feed/feeds.soundcloud.com/users/soundcloud:users:203144248/sounds.rss
   podlove:
     subscribe_color: '#585e6c'
-    subscribe_cover: img/logo.jpg
+    subscribe_cover: img/my_logo.png
     subscribe_description: ''
     subscribe_feed_format: mp3
     subscribe_feed_type: audio
@@ -139,20 +99,9 @@ params:
   site_layout: row
   site_theme: blue
   social:
-    facebook: Arresteddevops
-    facebook_admin:
-      - '500557137'
-      - '1234'
-    github: arresteddevops
-    gitlab: mattstratton
-    instagram: nozzleio
-    linkedin: https://www.linkedin.com/company/linkedin/
-    pinterest: nozzleio
-    twitch: mattstratton
-    twitter: https://twitter.com/arresteddevops
-    twitter_domain: arresteddevops.com
-    youtube: arresteddevops
+    linkedin: https://www.linkedin.com/groups/12455312/
+    twitter: https://twitter.com/longtalesofsci
   soundcloud_subscribe: http://feeds.soundcloud.com/users/soundcloud:users:203144248/sounds.rss
   spotify_subscribe: https://open.spotify.com/show/...
   stitcher_subscribe: http://www.stitcher.com/podcast/arrested-devops-2/arrested-devops
-  youtube_subscribe: https://www.youtube.com/arresteddevops?sub_confirmation=1
+  #youtube_subscribe: https://www.youtube.com/arresteddevops?sub_confirmation=1
