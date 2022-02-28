@@ -2,214 +2,77 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://example.com/sept/</loc>
-    <lastmod>2020-12-25T04:10:01-05:00</lastmod>
+    <loc>https://nicole-brewer.github.io/long-tales-of-science/003/</loc>
+    <lastmod>2021-12-30T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.com/episode/</loc>
-    <lastmod>2020-12-25T04:10:01-05:00</lastmod>
+    <loc>https://nicole-brewer.github.io/long-tales-of-science/episode/</loc>
+    <lastmod>2021-12-30T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.com/</loc>
-    <lastmod>2020-12-25T04:10:01-05:00</lastmod>
+    <loc>https://nicole-brewer.github.io/long-tales-of-science/</loc>
+    <lastmod>2021-12-30T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.com/blog/</loc>
-    <lastmod>2020-12-01T13:33:18-06:00</lastmod>
+    <loc>https://nicole-brewer.github.io/long-tales-of-science/tags/project-management/</loc>
+    <lastmod>2021-12-30T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.com/blog/my-fourth-blog/</loc>
-    <lastmod>2020-12-01T13:33:18-06:00</lastmod>
+    <loc>https://nicole-brewer.github.io/long-tales-of-science/tags/science-gateways/</loc>
+    <lastmod>2021-12-30T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.com/blog/my-third-blog/</loc>
-    <lastmod>2020-11-21T13:33:18-06:00</lastmod>
+    <loc>https://nicole-brewer.github.io/long-tales-of-science/tags/sdsc/</loc>
+    <lastmod>2021-12-30T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.com/categories/</loc>
-    <lastmod>2020-11-12T13:33:18-06:00</lastmod>
+    <loc>https://nicole-brewer.github.io/long-tales-of-science/tags/</loc>
+    <lastmod>2021-12-30T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.com/categories/devops/</loc>
-    <lastmod>2020-11-12T13:33:18-06:00</lastmod>
+    <loc>https://nicole-brewer.github.io/long-tales-of-science/tags/xsede/</loc>
+    <lastmod>2021-12-30T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.com/blog/my-second-blog/</loc>
-    <lastmod>2020-11-12T13:33:18-06:00</lastmod>
-  </url><url>
-    <loc>https://example.com/tags/phased-rollout/</loc>
-    <lastmod>2020-11-12T13:33:18-06:00</lastmod>
-  </url><url>
-    <loc>https://example.com/categories/release/</loc>
-    <lastmod>2020-11-12T13:33:18-06:00</lastmod>
-  </url><url>
-    <loc>https://example.com/tags/ring-deployment/</loc>
-    <lastmod>2020-11-12T13:33:18-06:00</lastmod>
-  </url><url>
-    <loc>https://example.com/series/</loc>
-    <lastmod>2020-11-12T13:33:18-06:00</lastmod>
-  </url><url>
-    <loc>https://example.com/tags/</loc>
-    <lastmod>2020-11-12T13:33:18-06:00</lastmod>
-  </url><url>
-    <loc>https://example.com/series/the-nirvana-of-devops/</loc>
-    <lastmod>2020-11-12T13:33:18-06:00</lastmod>
-  </url><url>
-    <loc>https://example.com/categories/deployment/</loc>
+    <loc>https://nicole-brewer.github.io/long-tales-of-science/blog/</loc>
     <lastmod>2020-11-01T13:27:00-06:00</lastmod>
   </url><url>
-    <loc>https://example.com/tags/git/</loc>
+    <loc>https://nicole-brewer.github.io/long-tales-of-science/categories/</loc>
     <lastmod>2020-11-01T13:27:00-06:00</lastmod>
   </url><url>
-    <loc>https://example.com/blog/my-first-blog/</loc>
+    <loc>https://nicole-brewer.github.io/long-tales-of-science/categories/deployment/</loc>
     <lastmod>2020-11-01T13:27:00-06:00</lastmod>
   </url><url>
-    <loc>https://example.com/tags/version-control/</loc>
+    <loc>https://nicole-brewer.github.io/long-tales-of-science/categories/devops/</loc>
     <lastmod>2020-11-01T13:27:00-06:00</lastmod>
   </url><url>
-    <loc>https://example.com/guest/ajohnston2/</loc>
-    <lastmod>2020-02-10T09:12:39-05:00</lastmod>
+    <loc>https://nicole-brewer.github.io/long-tales-of-science/tags/git/</loc>
+    <lastmod>2020-11-01T13:27:00-06:00</lastmod>
   </url><url>
-    <loc>https://example.com/guest/scox/</loc>
-    <lastmod>2017-06-10T09:12:44-05:00</lastmod>
+    <loc>https://nicole-brewer.github.io/long-tales-of-science/blog/my-first-blog/</loc>
+    <lastmod>2020-11-01T13:27:00-06:00</lastmod>
   </url><url>
-    <loc>https://example.com/guest/kgrant/</loc>
-    <lastmod>2017-06-10T09:12:43-05:00</lastmod>
+    <loc>https://nicole-brewer.github.io/long-tales-of-science/series/</loc>
+    <lastmod>2020-11-01T13:27:00-06:00</lastmod>
   </url><url>
-    <loc>https://example.com/guest/rshaw/</loc>
-    <lastmod>2017-06-10T09:12:43-05:00</lastmod>
+    <loc>https://nicole-brewer.github.io/long-tales-of-science/series/the-nirvana-of-devops/</loc>
+    <lastmod>2020-11-01T13:27:00-06:00</lastmod>
   </url><url>
-    <loc>https://example.com/guest/chernandez/</loc>
-    <lastmod>2017-06-10T09:12:42-05:00</lastmod>
+    <loc>https://nicole-brewer.github.io/long-tales-of-science/tags/version-control/</loc>
+    <lastmod>2020-11-01T13:27:00-06:00</lastmod>
   </url><url>
-    <loc>https://example.com/guest/rcastillo/</loc>
-    <lastmod>2017-06-10T09:12:42-05:00</lastmod>
+    <loc>https://nicole-brewer.github.io/long-tales-of-science/host/nbrewer/</loc>
+    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.com/guest/ccooper/</loc>
-    <lastmod>2017-06-10T09:12:41-05:00</lastmod>
-  </url><url>
-    <loc>https://example.com/guest/jlong/</loc>
-    <lastmod>2017-06-10T09:12:41-05:00</lastmod>
-  </url><url>
-    <loc>https://example.com/guest/sparker/</loc>
-    <lastmod>2017-06-10T09:12:41-05:00</lastmod>
-  </url><url>
-    <loc>https://example.com/guest/ajohnston/</loc>
-    <lastmod>2017-06-10T09:12:39-05:00</lastmod>
-  </url><url>
-    <loc>https://example.com/guest/smorgan/</loc>
-    <lastmod>2017-06-10T09:12:39-05:00</lastmod>
-  </url><url>
-    <loc>https://example.com/guest/chamilton/</loc>
-    <lastmod>2017-06-10T09:12:38-05:00</lastmod>
-  </url><url>
-    <loc>https://example.com/guest/rtaylor/</loc>
-    <lastmod>2017-06-10T09:12:38-05:00</lastmod>
-  </url><url>
-    <loc>https://example.com/guest/cadams/</loc>
-    <lastmod>2017-06-10T09:12:37-05:00</lastmod>
-  </url><url>
-    <loc>https://example.com/guest/kdixon/</loc>
-    <lastmod>2017-06-10T09:12:36-05:00</lastmod>
-  </url><url>
-    <loc>https://example.com/contact/</loc>
+    <loc>https://nicole-brewer.github.io/long-tales-of-science/contact/</loc>
     <lastmod>2017-04-27T15:19:36-05:00</lastmod>
   </url><url>
-    <loc>https://example.com/books/</loc>
-    <lastmod>2017-04-27T15:18:55-05:00</lastmod>
-  </url><url>
-    <loc>https://example.com/guest/mstratton/</loc>
-    <lastmod>2017-04-27T13:53:32-05:00</lastmod>
-  </url><url>
-    <loc>https://example.com/host/bkromhout/</loc>
-    <lastmod>2016-12-08T20:55:58-06:00</lastmod>
-  </url><url>
-    <loc>https://example.com/guest/jsmith/</loc>
-    <lastmod>2016-12-08T20:55:58-06:00</lastmod>
-  </url><url>
-    <loc>https://example.com/guest/jsmith2/</loc>
-    <lastmod>2016-12-08T20:55:58-06:00</lastmod>
-  </url><url>
-    <loc>https://example.com/guest/jsmith3/</loc>
-    <lastmod>2016-12-08T20:55:58-06:00</lastmod>
-  </url><url>
-    <loc>https://example.com/host/mstratton/</loc>
-    <lastmod>2016-12-08T20:55:58-06:00</lastmod>
-  </url><url>
-    <loc>https://example.com/host/thess/</loc>
-    <lastmod>2016-12-08T20:55:58-06:00</lastmod>
-  </url><url>
-    <loc>https://example.com/about/</loc>
+    <loc>https://nicole-brewer.github.io/long-tales-of-science/about/</loc>
     <lastmod>2016-09-25T02:11:48-05:00</lastmod>
   </url><url>
-    <loc>https://example.com/about/</loc>
+    <loc>https://nicole-brewer.github.io/long-tales-of-science/about/</loc>
     <lastmod>2016-09-25T02:11:48-05:00</lastmod>
   </url><url>
-    <loc>https://example.com/guest/</loc>
+    <loc>https://nicole-brewer.github.io/long-tales-of-science/host/</loc>
     <lastmod>2016-09-25T02:11:48-05:00</lastmod>
   </url><url>
-    <loc>https://example.com/host/</loc>
+    <loc>https://nicole-brewer.github.io/long-tales-of-science/upcoming/</loc>
     <lastmod>2016-09-25T02:11:48-05:00</lastmod>
   </url><url>
-    <loc>https://example.com/upcoming/</loc>
-    <lastmod>2016-09-25T02:11:48-05:00</lastmod>
+    <loc>https://nicole-brewer.github.io/long-tales-of-science/guest/</loc>
   </url><url>
-    <loc>https://example.com/aug/</loc>
-    <lastmod>2016-08-25T04:09:58-05:00</lastmod>
-  </url><url>
-    <loc>https://example.com/series/modern-tech-trends/</loc>
-    <lastmod>2016-08-25T04:09:58-05:00</lastmod>
-  </url><url>
-    <loc>https://example.com/tags/technology/</loc>
-    <lastmod>2016-08-25T04:09:58-05:00</lastmod>
-  </url><url>
-    <loc>https://example.com/categories/virtual-reality/</loc>
-    <lastmod>2016-08-25T04:09:58-05:00</lastmod>
-  </url><url>
-    <loc>https://example.com/tags/vr/</loc>
-    <lastmod>2016-08-25T04:09:58-05:00</lastmod>
-  </url><url>
-    <loc>https://example.com/categories/cloud-technology/</loc>
-    <lastmod>2016-07-25T04:09:54-05:00</lastmod>
-  </url><url>
-    <loc>https://example.com/series/exploring-the-cloud/</loc>
-    <lastmod>2016-07-25T04:09:54-05:00</lastmod>
-  </url><url>
-    <loc>https://example.com/july/</loc>
-    <lastmod>2016-07-25T04:09:54-05:00</lastmod>
-  </url><url>
-    <loc>https://example.com/june/</loc>
-    <lastmod>2016-06-25T04:09:51-05:00</lastmod>
-  </url><url>
-    <loc>https://example.com/may/</loc>
-    <lastmod>2016-05-25T04:09:48-05:00</lastmod>
-  </url><url>
-    <loc>https://example.com/april/</loc>
-    <lastmod>2016-04-25T04:09:45-05:00</lastmod>
-  </url><url>
-    <loc>https://example.com/march/</loc>
-    <lastmod>2016-03-25T04:09:40-05:00</lastmod>
-  </url><url>
-    <loc>https://example.com/feb/</loc>
-    <lastmod>2016-02-25T04:08:20-05:00</lastmod>
-  </url><url>
-    <loc>https://example.com/series/politely-presenting-politics/</loc>
-    <lastmod>2016-02-25T04:08:20-05:00</lastmod>
-  </url><url>
-    <loc>https://example.com/tags/politics/</loc>
-    <lastmod>2016-02-25T04:08:20-05:00</lastmod>
-  </url><url>
-    <loc>https://example.com/categories/politics/</loc>
-    <lastmod>2016-02-25T04:08:20-05:00</lastmod>
-  </url><url>
-    <loc>https://example.com/tags/apis/</loc>
-    <lastmod>2016-01-25T04:08:15-05:00</lastmod>
-  </url><url>
-    <loc>https://example.com/jan/</loc>
-    <lastmod>2016-01-25T04:08:15-05:00</lastmod>
-  </url><url>
-    <loc>https://example.com/tags/mobile/</loc>
-    <lastmod>2016-01-25T04:08:15-05:00</lastmod>
-  </url><url>
-    <loc>https://example.com/dec/</loc>
-    <lastmod>2015-12-25T04:10:10-05:00</lastmod>
-  </url><url>
-    <loc>https://example.com/nov/</loc>
-    <lastmod>2015-11-25T04:10:07-05:00</lastmod>
-  </url><url>
-    <loc>https://example.com/oct/</loc>
-    <lastmod>2015-10-25T04:10:04-05:00</lastmod>
+    <loc>https://nicole-brewer.github.io/long-tales-of-science/guest/nwilkins-diehr/</loc>
   </url>
 </urlset>

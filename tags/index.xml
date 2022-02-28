@@ -1,90 +1,63 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tags on HugoCast</title>
-    <link>https://example.com/tags/</link>
-    <description>Recent content in Tags on HugoCast</description>
+    <title>Tags on Long Tales of Science</title>
+    <link>https://nicole-brewer.github.io/long-tales-of-science/tags/</link>
+    <description>Recent content in Tags on Long Tales of Science</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 12 Nov 2020 13:33:18 -0600</lastBuildDate><atom:link href="https://example.com/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 30 Dec 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://nicole-brewer.github.io/long-tales-of-science/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Phased Rollout</title>
-      <link>https://example.com/tags/phased-rollout/</link>
-      <pubDate>Thu, 12 Nov 2020 13:33:18 -0600</pubDate>
+      <title>Project Management</title>
+      <link>https://nicole-brewer.github.io/long-tales-of-science/tags/project-management/</link>
+      <pubDate>Thu, 30 Dec 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/tags/phased-rollout/</guid>
+      <guid>https://nicole-brewer.github.io/long-tales-of-science/tags/project-management/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Ring Deployment</title>
-      <link>https://example.com/tags/ring-deployment/</link>
-      <pubDate>Thu, 12 Nov 2020 13:33:18 -0600</pubDate>
+      <title>Science Gateways</title>
+      <link>https://nicole-brewer.github.io/long-tales-of-science/tags/science-gateways/</link>
+      <pubDate>Thu, 30 Dec 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/tags/ring-deployment/</guid>
+      <guid>https://nicole-brewer.github.io/long-tales-of-science/tags/science-gateways/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>SDSC</title>
+      <link>https://nicole-brewer.github.io/long-tales-of-science/tags/sdsc/</link>
+      <pubDate>Thu, 30 Dec 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://nicole-brewer.github.io/long-tales-of-science/tags/sdsc/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>XSEDE</title>
+      <link>https://nicole-brewer.github.io/long-tales-of-science/tags/xsede/</link>
+      <pubDate>Thu, 30 Dec 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://nicole-brewer.github.io/long-tales-of-science/tags/xsede/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Git</title>
-      <link>https://example.com/tags/git/</link>
+      <link>https://nicole-brewer.github.io/long-tales-of-science/tags/git/</link>
       <pubDate>Sun, 01 Nov 2020 13:27:00 -0600</pubDate>
       
-      <guid>https://example.com/tags/git/</guid>
+      <guid>https://nicole-brewer.github.io/long-tales-of-science/tags/git/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Version Control</title>
-      <link>https://example.com/tags/version-control/</link>
+      <link>https://nicole-brewer.github.io/long-tales-of-science/tags/version-control/</link>
       <pubDate>Sun, 01 Nov 2020 13:27:00 -0600</pubDate>
       
-      <guid>https://example.com/tags/version-control/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Technology</title>
-      <link>https://example.com/tags/technology/</link>
-      <pubDate>Thu, 25 Aug 2016 04:09:58 -0500</pubDate>
-      
-      <guid>https://example.com/tags/technology/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>VR</title>
-      <link>https://example.com/tags/vr/</link>
-      <pubDate>Thu, 25 Aug 2016 04:09:58 -0500</pubDate>
-      
-      <guid>https://example.com/tags/vr/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Politics</title>
-      <link>https://example.com/tags/politics/</link>
-      <pubDate>Thu, 25 Feb 2016 04:08:20 -0500</pubDate>
-      
-      <guid>https://example.com/tags/politics/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>APIs</title>
-      <link>https://example.com/tags/apis/</link>
-      <pubDate>Mon, 25 Jan 2016 04:08:15 -0500</pubDate>
-      
-      <guid>https://example.com/tags/apis/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Mobile</title>
-      <link>https://example.com/tags/mobile/</link>
-      <pubDate>Mon, 25 Jan 2016 04:08:15 -0500</pubDate>
-      
-      <guid>https://example.com/tags/mobile/</guid>
+      <guid>https://nicole-brewer.github.io/long-tales-of-science/tags/version-control/</guid>
       <description></description>
     </item>
     
