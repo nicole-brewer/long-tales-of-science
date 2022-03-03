@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Series on Long Tales of Science</title>
+    <link>https://nicole-brewer.github.io/long-tales-of-science/series/</link>
+    <description>Recent content in Series on Long Tales of Science</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 01 Nov 2020 13:27:00 -0600</lastBuildDate><atom:link href="https://nicole-brewer.github.io/long-tales-of-science/series/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>The Nirvana of DevOps</title>
+      <link>https://nicole-brewer.github.io/long-tales-of-science/series/the-nirvana-of-devops/</link>
+      <pubDate>Sun, 01 Nov 2020 13:27:00 -0600</pubDate>
+      
+      <guid>https://nicole-brewer.github.io/long-tales-of-science/series/the-nirvana-of-devops/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

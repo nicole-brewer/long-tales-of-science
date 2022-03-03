@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>XSEDE on Long Tales of Science</title>
+    <link>https://nicole-brewer.github.io/long-tales-of-science/tags/xsede/</link>
+    <description>Recent content in XSEDE on Long Tales of Science</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 30 Dec 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://nicole-brewer.github.io/long-tales-of-science/tags/xsede/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Call 1-800-HLP-DESK</title>
+      <link>https://nicole-brewer.github.io/long-tales-of-science/003/</link>
+      <pubDate>Thu, 30 Dec 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://nicole-brewer.github.io/long-tales-of-science/003/</guid>
+      <description>[00:00:00] Intro Nicole: Hello, and welcome to the long tails of science podcast, where we interview women in high performance computing about science research, mentors, and career paths. I&amp;rsquo;m your host, Nicole Brewer. In this episode, we talk with Nancy Wilkins-Dier about her pathway into HPC. We discussed her lengthy career at the San Diego supercomputer center. Her involvement with Terra grid exceed and science gateways. And we also discussed the state of software related contributions in academia.</description>
+    </item>
+    
+  </channel>
+</rss>
