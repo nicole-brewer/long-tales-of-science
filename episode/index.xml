@@ -18,22 +18,22 @@
     <sy:updatePeriod>hourly</sy:updatePeriod>
     <sy:updateFrequency>1</sy:updateFrequency>
     <language>en-us</language>
-    <copyright>Copyright 2020 Nicole Brewer</copyright>
+    <copyright>Copyright 2022 Nicole Brewer</copyright>
     <itunes:subtitle>A podcast about women in high-performance computing</itunes:subtitle>
     <itunes:author>Nicole Brewer</itunes:author>
     <itunes:type>episodic</itunes:type>
     <googleplay:author>Nicole Brewer</googleplay:author>
-    <googleplay:email>brewer36@purdue.edu</googleplay:email>
+    <googleplay:email>longtalesofscience@gmail.com</googleplay:email>
     <itunes:summary>Our mission is to expose and encourage women to pursue research and careers in high performance computing and computing-envabled fields. In this podcast, we interview women in HPC about their research, career paths, and what it means to be a woman in technology. Interviewees come from industry, academia, government, science, engineering, social science, and the humanities.</itunes:summary>
     <googleplay:description>Our mission is to expose and encourage women to pursue research and careers in high performance computing and computing-envabled fields. In this podcast, we interview women in HPC about their research, career paths, and what it means to be a woman in technology. Interviewees come from industry, academia, government, science, engineering, social science, and the humanities.</googleplay:description>
     <itunes:owner>
       <itunes:name>Nicole Brewer</itunes:name>
-      <itunes:email>brewer36@purdue.edu</itunes:email>
+      <itunes:email>longtalesofscience@gmail.com</itunes:email>
     </itunes:owner>
-    <itunes:image href="https://github.com/nicole-brewer/long-tales-of-science/tree/main/static/img/my_logo.png" />
-    <googleplay:image href="https://github.com/nicole-brewer/long-tales-of-science/tree/main/static/img/my_logo.png"></googleplay:image>
+    <itunes:image href="https://raw.githubusercontent.com/nicole-brewer/long-tales-of-science/main/static/img/my_logo.png" />
+    <googleplay:image href="https://raw.githubusercontent.com/nicole-brewer/long-tales-of-science/main/static/img/my_logo.png"></googleplay:image>
     <image>
-      <url>https://github.com/nicole-brewer/long-tales-of-science/tree/main/static/img/my_logo.png</url>
+      <url>https://raw.githubusercontent.com/nicole-brewer/long-tales-of-science/main/static/img/my_logo.png</url>
       <title>Long Tales of Science</title>
       <link>https://nicole-brewer.github.io/long-tales-of-science</link>
     </image>
