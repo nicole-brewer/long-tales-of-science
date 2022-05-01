@@ -77,7 +77,7 @@ params:
       url: https://cote.io/podcasts/sdt/
   mailchimp_subscribe: //arresteddevops.us3.list-manage.com/subscribe/post?u=5e4cbcac996bb9df25f970a89&amp;id=154fa76bcc
   mainSections: episode
-  media_prefix: https://github.com/nicole-brewer/long-tales-of-science/blob/main/content/episode
+  media_prefix: https://raw.githubusercontent.com/nicole-brewer/long-tales-of-science/main/content/episode/
   pocketcasts_subscribe: http://pcasts.in/feed/feeds.soundcloud.com/users/soundcloud:users:203144248/sounds.rss
   podlove:
     subscribe_color: '#585e6c'
