@@ -45,7 +45,7 @@
           
           
             
-              - Episode 3
+              - Episode 4
             
           
           </title>
@@ -58,7 +58,7 @@
             
               Nicole Brewer</itunes:author>
           
-          <itunes:episode>3</itunes:episode>
+          <itunes:episode>4</itunes:episode>
           
         
           <itunes:title>Trial by Fire</itunes:title>
@@ -156,7 +156,7 @@
 <p>[00:27:36] <strong>Elizabeth:</strong> And thank you for having me.</p>
 <p>[00:27:39]</p>
 ]]></content:encoded><itunes:image href="https://nicole-brewer.github.io/long-tales-of-science/img/episode/004.png"></itunes:image>
-          <googleplay:image href="https://nicole-brewer.github.io/long-tales-of-science/img/episode/004.png"></googleplay:image><enclosure url="https://raw.githubusercontent.com/nicole-brewer/long-tales-of-science/main/content/episode/004.mp3"  type="audio/mpeg" /><itunes:duration>0:24:00</itunes:duration><itunes:explicit>false</itunes:explicit>
+          <googleplay:image href="https://nicole-brewer.github.io/long-tales-of-science/img/episode/004.png"></googleplay:image><enclosure url="https://raw.githubusercontent.com/nicole-brewer/long-tales-of-science/main/content/episode/004.mp3" length="27814019" type="audio/mpeg" /><itunes:duration>0:24:00</itunes:duration><itunes:explicit>false</itunes:explicit>
           <googleplay:explicit>no</googleplay:explicit></item>
         <item>
           
@@ -266,7 +266,7 @@ And technology is a great career for women. It&rsquo;s lots of fun!</p>
 Follow us on Twitter or sign up for our email lists to keep up to date with the new podcast episodes and semi annual virtual meetings. If there&rsquo;s a guest speaker, including yourself, you would like to nominate. Please send us an email and finally subscribe and rate the podcast on your favorite platform. Or listen on the web at <a href="http://www.breaker.audio/long-tales-of-science">www.breaker.audio/long-tales-of-science</a></p>
 <p>Until next time, I&rsquo;m your host Nicole Brewer. And it&rsquo;s been a true pleasure introducing you to amazing women in science, engineering, and technology.</p>
 ]]></content:encoded><itunes:image href="https://nicole-brewer.github.io/long-tales-of-science/img/episode/003.png"></itunes:image>
-          <googleplay:image href="https://nicole-brewer.github.io/long-tales-of-science/img/episode/003.png"></googleplay:image><enclosure url="https://raw.githubusercontent.com/nicole-brewer/long-tales-of-science/main/content/episode/003.mp3"  type="audio/mpeg" /><itunes:duration>0:24:00</itunes:duration><itunes:explicit>false</itunes:explicit>
+          <googleplay:image href="https://nicole-brewer.github.io/long-tales-of-science/img/episode/003.png"></googleplay:image><enclosure url="https://raw.githubusercontent.com/nicole-brewer/long-tales-of-science/main/content/episode/003.mp3" length="20452310" type="audio/mpeg" /><itunes:duration>0:24:00</itunes:duration><itunes:explicit>false</itunes:explicit>
           <googleplay:explicit>no</googleplay:explicit></item>
         <item>
           
@@ -301,6 +301,6 @@ Follow us on Twitter or sign up for our email lists to keep up to date with the 
         <description>In this episode, Nicole interviews Dr. Sarah Wellons, an astrophysicist who uses HPC resources to run massive simulations of galaxy formation, and her mother, Dr. Helen Wellons, a retired ceimical engineer who used parallel computing to deploy computational modeling applications to optimize real-time refinery operations at ExxonMobile.</description>
         <googleplay:description>In this episode, Nicole interviews Dr. Sarah Wellons, an astrophysicist who uses HPC resources to run massive simulations of galaxy formation, and her mother, Dr. Helen Wellons, a retired ceimical engineer who used parallel computing to deploy computational modeling applications to optimize real-time refinery operations at ExxonMobile.</googleplay:description>
         <content:encoded><![CDATA[]]></content:encoded><itunes:image href="https://nicole-brewer.github.io/long-tales-of-science/img/episode/002.png"></itunes:image>
-          <googleplay:image href="https://nicole-brewer.github.io/long-tales-of-science/img/episode/002.png"></googleplay:image><enclosure url="https://raw.githubusercontent.com/nicole-brewer/long-tales-of-science/main/content/episode/002.mp3"  type="audio/mpeg" /><itunes:duration>0:48:00</itunes:duration><itunes:explicit>false</itunes:explicit>
+          <googleplay:image href="https://nicole-brewer.github.io/long-tales-of-science/img/episode/002.png"></googleplay:image><enclosure url="https://raw.githubusercontent.com/nicole-brewer/long-tales-of-science/main/content/episode/002.mp3" length="30911579" type="audio/mpeg" /><itunes:duration>0:48:00</itunes:duration><itunes:explicit>false</itunes:explicit>
           <googleplay:explicit>no</googleplay:explicit></item></channel>
 </rss>
