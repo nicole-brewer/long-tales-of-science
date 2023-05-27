@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>hpc on Long Tales of Science</title>
+    <link>https://nicole-brewer.github.io/long-tales-of-science/tags/hpc/</link>
+    <description>Recent content in hpc on Long Tales of Science</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 26 May 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://nicole-brewer.github.io/long-tales-of-science/tags/hpc/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>The Reproducibility Initiative at SC&#39;22</title>
+      <link>https://nicole-brewer.github.io/long-tales-of-science/005/</link>
+      <pubDate>Fri, 26 May 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://nicole-brewer.github.io/long-tales-of-science/005/</guid>
+      <description>Nicole: Okay, so welcome. Thanks for coming and meeting me here. So I will let you all introduce yourself, but, uh, thank you for volunteering your time here at SC 22.
+Rocio: Thank you. So I am Rocío Carratalá from Spain from, and I&amp;rsquo;m currently an assistant professor.
+Bilel: So, hello. Good afternoon. I&amp;rsquo;m, uh, Bilel Hadri computational scientist at the KAUST Supercompeting CoLab, and , I am the Reproducibility Initiative Chair for SC 22.</description>
+    </item>
+    
+  </channel>
+</rss>

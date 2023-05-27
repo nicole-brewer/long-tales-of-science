@@ -36,12 +36,39 @@ Helen, and her spouse Michael, joined Mobil in January, 1990 after receiving Ph.
     </item>
     
     <item>
+      <title>Bilel Hadri</title>
+      <link>https://nicole-brewer.github.io/long-tales-of-science/guest/bhadri/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://nicole-brewer.github.io/long-tales-of-science/guest/bhadri/</guid>
+      <description>Computational scientist with more than 10 years experience in HPC along with more than 5 years in leadership computing centers. Interested in monitoring, analyzing and bechmarking applications to effectively and efficiently use supercomputers.</description>
+    </item>
+    
+    <item>
+      <title>Le Mai Weakley</title>
+      <link>https://nicole-brewer.github.io/long-tales-of-science/guest/lmweakley/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://nicole-brewer.github.io/long-tales-of-science/guest/lmweakley/</guid>
+      <description>Le Mai Weakley received her PhD in Mathematics from Indiana University in 2013. She is part of the Research Applications and Deep Learning team at Indiana University.</description>
+    </item>
+    
+    <item>
       <title>Nancy Wilkins-Diehr</title>
       <link>https://nicole-brewer.github.io/long-tales-of-science/guest/nwilkins-diehr/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://nicole-brewer.github.io/long-tales-of-science/guest/nwilkins-diehr/</guid>
       <description>Nancy has been at the San Diego Supercomputer Center since 1993, retiring in 2019 having held a variety of management positions. Nancy&amp;rsquo;s particular expertise is in the development of web interfaces to high performance computing systems, data collections, instruments and other resources fundamental to many of today&amp;rsquo;s research endeavors. Beginning with the National Science Foundation&amp;rsquo;s TeraGrid Science Gateways program in 2005, she has led many programs that support the democratization of access to high end resources.</description>
+    </item>
+    
+    <item>
+      <title>Rocío Carratalá Sáez</title>
+      <link>https://nicole-brewer.github.io/long-tales-of-science/guest/rcsaez/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://nicole-brewer.github.io/long-tales-of-science/guest/rcsaez/</guid>
+      <description>Dr. Rocío Carratalá Sáez received a B.Sc. Degree in Computational Mathematics by Universitat Jaume I (UJI) of Castellón (Spain) in 2015, M.Sc. Degree in Parallel and Distributed Computing by Universitat Politècnica de València (Spain) in 2016, and Ph.D. in Computer Science by UJI in 2021. She is currently an Assistant Professor at Universidad de Valladolid (UVa) in the Department of Computer Science. Her main research interest is High Performance Computing, focused on the parallelization of linear algebra operations to enable optimal executions in high performance and heterogeneous systems.</description>
     </item>
     
   </channel>

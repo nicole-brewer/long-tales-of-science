@@ -2,13 +2,31 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://nicole-brewer.github.io/long-tales-of-science/episode/</loc>
+    <lastmod>2023-05-26T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://nicole-brewer.github.io/long-tales-of-science/tags/hpc/</loc>
+    <lastmod>2023-05-26T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://nicole-brewer.github.io/long-tales-of-science/</loc>
+    <lastmod>2023-05-26T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://nicole-brewer.github.io/long-tales-of-science/tags/reproducibility/</loc>
+    <lastmod>2023-05-26T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://nicole-brewer.github.io/long-tales-of-science/tags/supercomputing/</loc>
+    <lastmod>2023-05-26T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://nicole-brewer.github.io/long-tales-of-science/tags/</loc>
+    <lastmod>2023-05-26T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://nicole-brewer.github.io/long-tales-of-science/005/</loc>
+    <lastmod>2023-05-26T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://nicole-brewer.github.io/long-tales-of-science/tags/computational-psychology/</loc>
     <lastmod>2022-05-18T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://nicole-brewer.github.io/long-tales-of-science/guest/easlinger/</loc>
-    <lastmod>2022-05-18T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://nicole-brewer.github.io/long-tales-of-science/episode/</loc>
     <lastmod>2022-05-18T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://nicole-brewer.github.io/long-tales-of-science/tags/graduate-student/</loc>
@@ -17,13 +35,7 @@
     <loc>https://nicole-brewer.github.io/long-tales-of-science/guest/</loc>
     <lastmod>2022-05-18T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://nicole-brewer.github.io/long-tales-of-science/</loc>
-    <lastmod>2022-05-18T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://nicole-brewer.github.io/long-tales-of-science/tags/management/</loc>
-    <lastmod>2022-05-18T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://nicole-brewer.github.io/long-tales-of-science/tags/</loc>
     <lastmod>2022-05-18T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://nicole-brewer.github.io/long-tales-of-science/tags/testing/</loc>
@@ -113,6 +125,12 @@
     <loc>https://nicole-brewer.github.io/long-tales-of-science/upcoming/</loc>
     <lastmod>2016-09-25T02:11:48-05:00</lastmod>
   </url><url>
+    <loc>https://nicole-brewer.github.io/long-tales-of-science/guest/bhadri/</loc>
+  </url><url>
+    <loc>https://nicole-brewer.github.io/long-tales-of-science/guest/lmweakley/</loc>
+  </url><url>
     <loc>https://nicole-brewer.github.io/long-tales-of-science/guest/nwilkins-diehr/</loc>
+  </url><url>
+    <loc>https://nicole-brewer.github.io/long-tales-of-science/guest/rcsaez/</loc>
   </url>
 </urlset>
