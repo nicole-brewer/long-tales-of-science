@@ -5,7 +5,7 @@ Instagram: ""
 Linkedin: "https://sa.linkedin.com/in/bilel-hadri-a898bb3a"
 Pinterest: ""
 Pronouns: ""
-Thumbnail: img/guest/bhardi.jpg
+Thumbnail: img/guest/bhadri.jpg
 Title: Bilel Hadri 
 Twitter: 
 Type: guest
